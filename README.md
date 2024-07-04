@@ -17,7 +17,7 @@ To play the Simon Game, simply checkout the deployed website under "About" secti
 
 ## Screenshot
 
-![Simon Game Screenshot](./demo.png)
+![Simon Game Screenshot](./public/images/demo.png)
 
 ## Usage
 
