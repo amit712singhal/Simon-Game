@@ -8,7 +8,7 @@ The Simon Game is a classic memory game where players need to repeat a sequence 
 
 ## How to Play ?
 
-To play the Simon Game, simply checkout the deployed website [here](https://amit712singhal.github.io/Simon-Game/).
+To play the Simon Game, simply checkout the deployed website [here](https://singhal-amit.github.io/Simon-Game/).
 
 - Press any key to start the game.
 - Watch and listen carefully to the sequence played by the game.
